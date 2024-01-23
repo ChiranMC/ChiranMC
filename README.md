@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a **new start up idea 😉!**
 
-- 🌱 I’m currently learning about **google cloud platform**
+- 🌱 I’m learning about **google cloud platform**
 
 - 👨‍💻 Feel free to connect with me [https://linktr.ee/chiranwilegoda](https://linktr.ee/chiranwilegoda)
 
