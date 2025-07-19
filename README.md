@@ -2,9 +2,9 @@
 <h3 align="center">My name is chiran wilegoda. I'm a 4th year Computer Science Student <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /></h3>
 <img align="right" alt="Man Technologist" width="400" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png">
 
-- 🔭 I’m currently working on a **new start up idea 😉!**
+<!-- - 🔭 I’m currently working on a **new start up idea 😉!**
 
-- 🌱 I’m learning about **google cloud platform**
+- 🌱 I’m learning about **google cloud platform** -->
 
 - 👨‍💻 Feel free to connect with me [https://linktr.ee/chiranwilegoda](https://linktr.ee/chiranwilegoda)
 
