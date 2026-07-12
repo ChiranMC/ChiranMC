@@ -7,7 +7,7 @@
     <text x="40" y="34" fill="#c9d1d9" font-weight="bold">About Me ;)</text>
     <text x="40" y="48" fill="#30363d">─────────────────────────────────────────</text>
 
-    <text x="40" y="70"><tspan fill="#7ee787">Loading... </tspan><tspan fill="#8b949e">.................... </tspan><tspan fill="#7ee787">████████░░</tspan><tspan fill="#c9d1d9"> 80% human, 20% caffeine</tspan></text>
+    <text x="40" y="70"><tspan fill="#7ee787">Loading... </tspan><tspan fill="#8b949e">.................... </tspan><tspan fill="#7ee787">████████</tspan><tspan fill="#c9d1d9"> 80% human, 20% caffeine</tspan></text>
     <text x="40" y="90"><tspan fill="#ff7b72">Languages spoken: </tspan><tspan fill="#8b949e">........................</tspan><tspan fill="#c9d1d9"> Java, English, Sinhala, sarcasm</tspan></text>
     <text x="40" y="110"><tspan fill="#ff7b72">Uptime: </tspan><tspan fill="#8b949e">........................ </tspan><tspan fill="#c9d1d9">22 years</tspan></text>
     <text x="40" y="130"><tspan fill="#ff7b72">Host: </tspan><tspan fill="#8b949e">.......................... </tspan><tspan fill="#c9d1d9">Bedroom</tspan></text>
@@ -26,12 +26,12 @@
     <text x="40" y="332"><tspan fill="#79c0ff">Architecture: </tspan><tspan fill="#8b949e">.............. </tspan><tspan fill="#c9d1d9">REST APIs, Microservices, OOP, CI/CD,</tspan></text>
     <text x="40" y="350"><tspan fill="#c9d1d9">                                  Agile, Unit Testing, Design Patterns,</tspan></text>
     <text x="40" y="368"><tspan fill="#c9d1d9">                                  Dependency Injection, System Design</tspan></text>
-    <text x="40" y="390"><tspan fill="#ff7b72">Mostly used IDE's: </tspan><tspan fill="#8b949e">........................... </tspan><tspan fill="#c9d1d9">IntelliJ IDEA, Visual Studio</tspan></text>
+    <text x="40" y="390"><tspan fill="#c9d1d9">Mostly used IDE's: </tspan><tspan fill="#8b949e">........................... </tspan><tspan fill="#c9d1d9">IntelliJ IDEA, Visual Studio</tspan></text>
 
     <text x="40" y="410" fill="#30363d">─────────────────────────────────────────</text>
 
     <!-- Hobbies -->
-    <text x="40" y="430"><tspan fill="#d2a8ff">Hobbies: </tspan><tspan fill="#8b949e">.......... </tspan><tspan fill="#d2a8ff">Just play games..</tspan></text>
+    <text x="40" y="430"><tspan fill="#d2a8ff">Hobbies: Just play games..</tspan></text>
 
     <text x="40" y="450" fill="#30363d">─────────────────────────────────────────</text>
 
