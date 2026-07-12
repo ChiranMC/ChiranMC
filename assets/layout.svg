@@ -12,7 +12,7 @@
     <text x="40" y="110"><tspan fill="#ff7b72">Uptime: </tspan><tspan fill="#8b949e">........................ </tspan><tspan fill="#c9d1d9">22 years</tspan></text>
     <text x="40" y="130"><tspan fill="#ff7b72">Host: </tspan><tspan fill="#8b949e">.......................... </tspan><tspan fill="#c9d1d9">Bedroom</tspan></text>
     <text x="40" y="150"><tspan fill="#ff7b72">Kernel: </tspan><tspan fill="#8b949e">........................ </tspan><tspan fill="#c9d1d9">Software Engineer, IFS Copperleaf</tspan></text>
-    <text x="40" y="170"><tspan fill="#ff7b72">Favourite Quote: </tspan><tspan fill="#8b949e">............... </tspan><tspan fill="#7ee787">"It works on my machine™"</tspan></text>
+    <text x="40" y="170"><tspan fill="#ff7b72">Favourite Quote: </tspan><tspan fill="#8b949e">............... </tspan><tspan fill="#7ee787">"It works on my machine"</tspan></text>
 
     <!-- Tech section -->
     <text x="40" y="205" fill="#c9d1d9" font-weight="bold">Technical Stuff!</text>
