@@ -44,13 +44,13 @@
     <text x="40" y="550"><tspan fill="#ffa657">Instagram: </tspan><tspan fill="#8b949e">................. </tspan><tspan fill="#c9d1d9">wolf.is.on.edge</tspan></text>
     <text x="40" y="570"><tspan fill="#ffa657">Discord: </tspan><tspan fill="#8b949e">................... </tspan><tspan fill="#c9d1d9">__.knight.wolf.__</tspan></text>
 
-    
+    <!--
     <text x="40" y="588" fill="#30363d">─────────────────────────────────────────</text>
 
     <text x="40" y="608" fill="#c9d1d9" font-weight="bold">GitHub Stats</text>
     <text x="40" y="628"><tspan fill="#7ee787">Repos: </tspan><tspan fill="#8b949e">..... [XX] </tspan><tspan fill="#c9d1d9">| </tspan><tspan fill="#7ee787">Stars: </tspan><tspan fill="#8b949e">..... [XX]</tspan></text>
     <text x="40" y="648"><tspan fill="#7ee787">Commits: </tspan><tspan fill="#8b949e">... [XXX] </tspan><tspan fill="#c9d1d9">| </tspan><tspan fill="#7ee787">Followers: </tspan><tspan fill="#8b949e">. [XX]</tspan></text>
-    
+    -->
 
   </g>
 </svg>
