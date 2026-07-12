@@ -26,7 +26,7 @@
     <text x="40" y="332"><tspan fill="#79c0ff">Architecture: </tspan><tspan fill="#8b949e">.............. </tspan><tspan fill="#c9d1d9">REST APIs, Microservices, OOP, CI/CD,</tspan></text>
     <text x="40" y="350"><tspan fill="#c9d1d9">                                  Agile, Unit Testing, Design Patterns,</tspan></text>
     <text x="40" y="368"><tspan fill="#c9d1d9">                                  Dependency Injection, System Design</tspan></text>
-    <text x="40" y="390"><tspan fill="#c9d1d9">Mostly used IDE's: </tspan><tspan fill="#8b949e">........................... </tspan><tspan fill="#c9d1d9">IntelliJ IDEA, Visual Studio</tspan></text>
+    <text x="40" y="390"><tspan fill="#79c0ff">Mostly used IDE's: </tspan><tspan fill="#8b949e">........................... </tspan><tspan fill="#c9d1d9">IntelliJ IDEA, Visual Studio</tspan></text>
 
     <text x="40" y="410" fill="#30363d">─────────────────────────────────────────</text>
 
