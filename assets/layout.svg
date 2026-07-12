@@ -12,21 +12,21 @@
     <text x="40" y="110"><tspan fill="#ff7b72">Uptime: </tspan><tspan fill="#8b949e">........................ </tspan><tspan fill="#c9d1d9">22 years</tspan></text>
     <text x="40" y="130"><tspan fill="#ff7b72">Host: </tspan><tspan fill="#8b949e">.......................... </tspan><tspan fill="#c9d1d9">Bedroom</tspan></text>
     <text x="40" y="150"><tspan fill="#ff7b72">Kernel: </tspan><tspan fill="#8b949e">........................ </tspan><tspan fill="#c9d1d9">Software Engineer, IFS Copperleaf</tspan></text>
-    <text x="40" y="170"><tspan fill="#ff7b72">IDE: </tspan><tspan fill="#8b949e">........................... </tspan><tspan fill="#c9d1d9">IntelliJ IDEA, Visual Studio</tspan></text>
-    <text x="40" y="190"><tspan fill="#ff7b72">Favourite Quote: </tspan><tspan fill="#8b949e">............... </tspan><tspan fill="#7ee787">"It works on my machine™"</tspan></text>
+    <text x="40" y="170"><tspan fill="#ff7b72">Favourite Quote: </tspan><tspan fill="#8b949e">............... </tspan><tspan fill="#7ee787">"It works on my machine™"</tspan></text>
 
     <!-- Tech section -->
-    <text x="40" y="215" fill="#c9d1d9" font-weight="bold">Technical Stuff!</text>
-    <text x="40" y="230" fill="#30363d">─────────────────────────────────────────</text>
+    <text x="40" y="205" fill="#c9d1d9" font-weight="bold">Technical Stuff!</text>
+    <text x="40" y="220" fill="#30363d">─────────────────────────────────────────</text>
 
-    <text x="40" y="252"><tspan fill="#79c0ff">Languages.Programming: </tspan><tspan fill="#8b949e">..... </tspan><tspan fill="#c9d1d9">Java, C#</tspan></text>
-    <text x="40" y="272"><tspan fill="#79c0ff">Frameworks: </tspan><tspan fill="#8b949e">................ </tspan><tspan fill="#c9d1d9">Spring Boot, Spring Framework, .NET, React.js</tspan></text>
-    <text x="40" y="292"><tspan fill="#79c0ff">Developer Tools: </tspan><tspan fill="#8b949e">........... </tspan><tspan fill="#c9d1d9">Azure DevOps, Docker, GitLab CI/CD</tspan></text>
-    <text x="40" y="312"><tspan fill="#79c0ff">Databases: </tspan><tspan fill="#8b949e">................. </tspan><tspan fill="#c9d1d9">Oracle, PostgreSQL, MySQL</tspan></text>
-    <text x="40" y="332"><tspan fill="#79c0ff">Workflow Automation: </tspan><tspan fill="#8b949e">....... </tspan><tspan fill="#c9d1d9">n8n</tspan></text>
-    <text x="40" y="352"><tspan fill="#79c0ff">Architecture: </tspan><tspan fill="#8b949e">.............. </tspan><tspan fill="#c9d1d9">REST APIs, Microservices, OOP, CI/CD,</tspan></text>
-    <text x="40" y="370"><tspan fill="#c9d1d9">                                  Agile, Unit Testing, Design Patterns,</tspan></text>
-    <text x="40" y="388"><tspan fill="#c9d1d9">                                  Dependency Injection, System Design</tspan></text>
+    <text x="40" y="232"><tspan fill="#79c0ff">Languages.Programming: </tspan><tspan fill="#8b949e">..... </tspan><tspan fill="#c9d1d9">Java, C#</tspan></text>
+    <text x="40" y="252"><tspan fill="#79c0ff">Frameworks: </tspan><tspan fill="#8b949e">................ </tspan><tspan fill="#c9d1d9">Spring Boot, Spring Framework, .NET, React.js</tspan></text>
+    <text x="40" y="272"><tspan fill="#79c0ff">Developer Tools: </tspan><tspan fill="#8b949e">........... </tspan><tspan fill="#c9d1d9">Azure DevOps, Docker, GitLab CI/CD</tspan></text>
+    <text x="40" y="292"><tspan fill="#79c0ff">Databases: </tspan><tspan fill="#8b949e">................. </tspan><tspan fill="#c9d1d9">Oracle, PostgreSQL, MySQL</tspan></text>
+    <text x="40" y="312"><tspan fill="#79c0ff">Workflow Automation: </tspan><tspan fill="#8b949e">....... </tspan><tspan fill="#c9d1d9">n8n</tspan></text>
+    <text x="40" y="332"><tspan fill="#79c0ff">Architecture: </tspan><tspan fill="#8b949e">.............. </tspan><tspan fill="#c9d1d9">REST APIs, Microservices, OOP, CI/CD,</tspan></text>
+    <text x="40" y="350"><tspan fill="#c9d1d9">                                  Agile, Unit Testing, Design Patterns,</tspan></text>
+    <text x="40" y="368"><tspan fill="#c9d1d9">                                  Dependency Injection, System Design</tspan></text>
+    <text x="40" y="380"><tspan fill="#ff7b72">Mostly used IDE's: </tspan><tspan fill="#8b949e">........................... </tspan><tspan fill="#c9d1d9">IntelliJ IDEA, Visual Studio</tspan></text>
 
     <text x="40" y="410" fill="#30363d">─────────────────────────────────────────</text>
 
